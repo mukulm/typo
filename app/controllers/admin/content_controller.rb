@@ -39,9 +39,10 @@ class Admin::ContentController < Admin::BaseController
   end
 
   def merge
-    from_id = eval(params[:merge][:from])[:value]
-    to_id = params[:merge][:with]
     log = Logger.new('log.txt', 'daily')
+    log.debug(params)
+    from_id = eval(params[:merge][:from])[:value]
+    to_id = params[:merge_with]
     log.debug "merging! " + from_id.to_s + " and " + to_id.to_s
     rec1 = Article.find(from_id)
     rec2 = Article.find(to_id)

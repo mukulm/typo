@@ -46,8 +46,9 @@ class Admin::ContentController < Admin::BaseController
     log.debug "merging! " + from_id.to_s + " and " + to_id.to_s
     rec1 = Article.find(from_id)
     rec2 = Article.find(to_id)
+    log.debug(rec1)
+    log.debug(rec2)
     rec1.body = rec1.body + rec2.body
-    log.debug rec1.comments
     rec2.comments.each do |comment|
       comment.update_attribute(:article_id, from_id)
       comment.save

@@ -1,0 +1,85 @@
+# Logfile created on 2013-11-01 12:30:44 -0700 by logger.rb/31641
+{"utf8"=>"✓", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>{"with"=>"555", "from"=>"{:value=>1}"}, "box"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+nil
+nil
+nil
+{"with"=>"555", "from"=>"{:value=>1}"}
+{"with"=>"555", "from"=>"{:value=>1}"}
+nil
+{:value=>1}
+{:value=>1}
+{:value=>1}
+{
+{:value=>1}
+{
+:
+v
+{:value=>1}
+1
+merging!1 and 555
+merging! 1 and 555
+merging! 1 and 555
+merging! 1 and 555
+merging! 1 and 555
+#<Article id: 1, type: "Article", title: "Hello World!", author: "Mr Typo", body: "<p>\r\n\tWelcome to Typo. This is your first article. ...", extended: "", excerpt: "", created_at: "2013-10-31 07:22:42", updated_at: "2013-11-01 01:55:22", user_id: 1, permalink: "hello-world", guid: "37b75a3d-1d41-48f0-b03d-980f3b8a7fe0", text_filter_id: 5, whiteboard: nil, name: nil, published: true, allow_pings: true, allow_comments: true, published_at: "2013-10-31 07:22:00", state: "published", parent_id: nil, settings: {"password"=>""}, post_type: "read">
+<p>
+	Welcome to Typo. This is your first article. Edit or delete it, then start blogging!</p>
+<p>
+	hueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</p>
+<p>
+	&nbsp;</p>
+<p>
+	hihihihihihihihihi</p>
+
+
+merging! 1 and 3
+merging! 1 and 3
+new body: <p>
+	Welcome to Typo. This is your first article. Edit or delete it, then start blogging!</p>
+<p>
+	hueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</p>
+<p>
+	&nbsp;</p>
+<p>
+	hihihihihihihihihi</p>
+<p>
+	balls</p>
+
+merging! 1 and 3
+new body: <p>
+	Welcome to Typo. This is your first article. Edit or delete it, then start blogging!</p>
+<p>
+	hueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</p>
+<p>
+	&nbsp;</p>
+<p>
+	hihihihihihihihihi</p>
+<p>
+	balls</p>
+
+#<Article id: nil, type: "Article", title: "Hello World!", author: "Mr Typo", body: "<p>\r\n\tWelcome to Typo. This is your first article. ...", extended: nil, excerpt: nil, created_at: nil, updated_at: nil, user_id: nil, permalink: nil, guid: nil, text_filter_id: nil, whiteboard: nil, name: nil, published: false, allow_pings: nil, allow_comments: nil, published_at: nil, state: nil, parent_id: nil, settings: {}, post_type: "read">
+merging! 1 and 555
+merging! 1 and 3
+new body: <p>
+	Welcome to Typo. This is your first article. Edit or delete it, then start blogging!</p>
+<p>
+	hueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</p>
+<p>
+	&nbsp;</p>
+<p>
+	hihihihihihihihihi</p>
+<p>
+	balls</p>
+
+merging! 1 and 3
+[#<Comment id: 1, type: "Comment", title: nil, author: "MM", body: "I loveeeeeeeeeeee to comment", excerpt: nil, created_at: "2013-11-01 20:06:22", updated_at: "2013-11-01 20:06:22", user_id: 1, guid: "ba0f4722-fb9b-4385-8373-550bb67068a9", text_filter_id: nil, whiteboard: nil, article_id: 1, email: "blah", url: "http://blah", ip: "127.0.0.1", blog_name: nil, published: true, published_at: nil, state: "ham", status_confirmed: true>]
+merging! 1 and 3
+[#<Comment id: 1, type: "Comment", title: nil, author: "MM", body: "I loveeeeeeeeeeee to comment", excerpt: nil, created_at: "2013-11-01 20:06:22", updated_at: "2013-11-01 20:06:22", user_id: 1, guid: "ba0f4722-fb9b-4385-8373-550bb67068a9", text_filter_id: nil, whiteboard: nil, article_id: 1, email: "blah", url: "http://blah", ip: "127.0.0.1", blog_name: nil, published: true, published_at: nil, state: "ham", status_confirmed: true>]
+merging! 1 and 3
+[#<Comment id: 1, type: "Comment", title: nil, author: "MM", body: "I loveeeeeeeeeeee to comment", excerpt: nil, created_at: "2013-11-01 20:06:22", updated_at: "2013-11-01 20:06:22", user_id: 1, guid: "ba0f4722-fb9b-4385-8373-550bb67068a9", text_filter_id: nil, whiteboard: nil, article_id: 1, email: "blah", url: "http://blah", ip: "127.0.0.1", blog_name: nil, published: true, published_at: nil, state: "ham", status_confirmed: true>, #<Comment id: 2, type: "Comment", title: nil, author: "aaaa", body: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", excerpt: nil, created_at: "2013-11-01 20:12:02", updated_at: "2013-11-01 20:12:44", user_id: 1, guid: "0b3e4b90-fc24-4ed1-88f0-2e085d5c15b2", text_filter_id: nil, whiteboard: nil, article_id: 1, email: "aaaa", url: "http://aaa", ip: "127.0.0.1", blog_name: nil, published: true, published_at: nil, state: "ham", status_confirmed: true>]
+merging! 5 and 1
+[]
+merging! 3 and 5
+[]
+merging! 3 and 1
+[#<Comment id: 1, type: "Comment", title: nil, author: "MM", body: "I loveeeeeeeeeeee to comment", excerpt: nil, created_at: "2013-11-01 20:06:22", updated_at: "2013-11-01 20:25:22", user_id: 1, guid: "ba0f4722-fb9b-4385-8373-550bb67068a9", text_filter_id: nil, whiteboard: nil, article_id: 3, email: "blah", url: "http://blah", ip: "127.0.0.1", blog_name: nil, published: true, published_at: nil, state: "ham", status_confirmed: true>]

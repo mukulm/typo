@@ -1,0 +1,29 @@
+# Logfile created on 2013-10-31 19:16:29 -0700 by logger.rb/31641
+merging!
+merging!
+merging!
+{"utf8"=>"✓", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+merging!
+{"utf8"=>"✓", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+merging!
+{"utf8"=>"✓", "_method"=>"put", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+merging!
+{"utf8"=>"✓", "_method"=>"put", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+merging!
+{"utf8"=>"✓", "_method"=>"put", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+merging!
+{"utf8"=>"✓", "_method"=>"put", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+merging!
+{"utf8"=>"✓", "_method"=>"put", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>{"with"=>"555"}, "box"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+merging!
+{"utf8"=>"✓", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>{"with"=>"555"}, "box"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+merging!
+{"utf8"=>"✓", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>{"with"=>"555", "from"=>"1"}, "box"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+merging!
+{"utf8"=>"✓", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>{"with"=>"555"}, "merge_from"=>"{:value=>1}", "box"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+merging!
+{"utf8"=>"✓", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>{"with"=>"555"}, "merge_from"=>"{:value=>1}", "box"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+merging!
+{"utf8"=>"✓", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>{"with"=>"555", "from"=>"{:value=>1}"}, "box"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
+merging!
+{"utf8"=>"✓", "authenticity_token"=>"PK5swJrUzQqbtAGArruC2ayWe9vhHjfT6NdripBV2+g=", "merge"=>{"with"=>"555", "from"=>"{:value=>3}"}, "box"=>"Merge", "action"=>"merge", "id"=>nil, "controller"=>"admin/content"}
